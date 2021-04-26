@@ -1,4 +1,4 @@
 # myPortfolio
 first my portfolio
 
-> designed by **candra dwi cahyo** - **2021**
+> designed by **Eka Paksi** - **2021**
